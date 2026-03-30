@@ -1,0 +1,20 @@
+I. Platform Selection & Integration
+
+The project was executed using a cloud-based ecosystem. Google Forms was selected for the front-end interface due to its accessibility and built-in "Quiz" functionality, which allows for immediate pedagogical feedback. To handle the back-end data, I integrated Google Sheets, enabling automated data sorting and the generation of visual analytics (pie charts and bar graphs) to interpret batch-wide trends. Finally, GitHub served as the hosting platform for the project documentation, utilizing Markdown to create a structured, professional README.
+
+II. Applied Skills & Development
+
+Throughout this project, I practiced several core technical and "soft" skills:
+
+Survey Design: I built a balanced assessment using multiple question types (linear scales, multiple-choice, and open-ended questions) to capture both quantitative and qualitative data.
+
+Technical Writing: I practiced "micro-copywriting" by ensuring the questions were brief yet technically accurate (e.g., explaining 2FA without using overly dense jargon).
+
+Conditional Logic: I explored the use of data validation to ensure that short-answer responses met specific criteria before submission.
+
+III. Academic & Professional Utility
+
+These tools provide a significant academic advantage. The ability to design structured data collection tools is essential for sociological research, market analysis, and scientific data entry. Using Google Sheets for analysis builds a foundation for Data Science, as it requires understanding how to clean and interpret raw information.
+
+Furthermore, documenting this process on GitHub demonstrates a "DevOps" mindset—showing that I can manage a project from the initial concept (Digital Literacy Awareness) through to a deployed, documented product. This intersection of social awareness and technical execution is a hallmark of a modern, digitally-literate scholar.
+
